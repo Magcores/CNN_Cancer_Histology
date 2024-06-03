@@ -41,10 +41,10 @@ Colon Cancer Classification Model: Achieved an accuracy of 95.85%, with a precis
 Lung Cancer Classification Model: Achieved an accuracy of 95.20%, with a precision of 99.58%, recall of 99.07%, and F1-score of 99.32%. This model successfully differentiated between benign, carcinoma, and adenocarcinoma lung cells.
 
 
-##### These models collectively aim to provide a comprehensive tool for the early detection and classification of various cancer types, leveraging deep learning to enhance the accuracy and efficiency of histopathological diagnosis.
+#### These models collectively aim to provide a comprehensive tool for the early detection and classification of various cancer types, leveraging deep learning to enhance the accuracy and efficiency of histopathological diagnosis.
 
 Source of images:
-[1] 	None. (n.d.). Invasive ductal carcinoma (IDC) histology image dataset. Academic Torrents. 
+[1] 	Invasive ductal carcinoma (IDC) histology image dataset. Academic Torrents. 
 https://academictorrents.com/details/e40bd59ab08861329ce3c418be191651f35e2ffa
 
 [2] 	Larxel, “Lung and Colon Cancer Histopathological Images.” 14-Apr-2020.
