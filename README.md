@@ -51,6 +51,10 @@ https://academictorrents.com/details/e40bd59ab08861329ce3c418be191651f35e2ffa
 [2] 	Larxel, “Lung and Colon Cancer Histopathological Images.” 14-Apr-2020.
 https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images
 
+Authors:
+Martín Antúnez, Luis Acero Morata, Carlos Arcas Perez, Javier Harto Vallejo
+
+
 
 
 
