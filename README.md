@@ -1,5 +1,5 @@
 # CNN_Cancer_Histology
-Deep learning classification of breast, lung and colon cancer using histological measures
+## Deep learning classification of breast, lung and colon cancer using histological measures
 
 
 In this project, we developed and trained four Convolutional Neural Network (CNN) models for the classification of breast, lung, and colon cancer using histological measures. Each model was tailored to specific classification tasks:
@@ -21,10 +21,15 @@ Lung Cancer Classification Model (lung_model.h5):
 Purpose: To classify lung cells, distinguishing between benign, carcinoma, and adenocarcinoma.
 Architecture: A CNN configured to handle the complexities of lung tissue, providing detailed classification of cancer subtypes.
 Training and Evaluation
+
 Data Preprocessing: Images were preprocessed through resizing, normalization, and augmentation to enhance model performance and robustness.
+
 Training: Models were trained using labeled datasets with a significant number of images for each type of cancer. The training involved fine-tuning hyperparameters to achieve optimal results.
+
 Evaluation Metrics: Models were evaluated using metrics such as accuracy, precision, recall, and F1-score to ensure high performance and reliability.
+
 Results: The models achieved high accuracy, with the body part classification model reaching 100% accuracy. The breast, colon, and lung cancer models also demonstrated high precision and recall, proving effective for practical diagnostic applications.
+
 These models collectively aim to provide a comprehensive tool for the early detection and classification of various cancer types, leveraging deep learning to enhance the accuracy and efficiency of histopathological diagnosis.
 
 
