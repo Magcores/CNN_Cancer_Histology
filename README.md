@@ -44,6 +44,7 @@ Lung Cancer Classification Model: Achieved an accuracy of 95.20%, with a precisi
 #### These models collectively aim to provide a comprehensive tool for the early detection and classification of various cancer types, leveraging deep learning to enhance the accuracy and efficiency of histopathological diagnosis.
 
 Source of images:
+
 [1] 	Invasive ductal carcinoma (IDC) histology image dataset. Academic Torrents. 
 https://academictorrents.com/details/e40bd59ab08861329ce3c418be191651f35e2ffa
 
